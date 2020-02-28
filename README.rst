@@ -43,12 +43,12 @@ Study on the usage of correlation loss for autoencoders
     :target: https://coveralls.io/github/LucaCappelletti94/autoencoders_correlation_loss?branch=master
     :alt: Coveralls Coverage
 
-.. |pip| image:: https://badge.fury.io/py/autoencoders_correlation_loss.svg
-    :target: https://badge.fury.io/py/autoencoders_correlation_loss
+.. |pip| image:: https://badge.fury.io/py/autoencoders-correlation-loss.svg
+    :target: https://badge.fury.io/py/autoencoders-correlation-loss
     :alt: Pypi project
 
-.. |downloads| image:: https://pepy.tech/badge/autoencoders_correlation_loss
-    :target: https://pepy.tech/badge/autoencoders_correlation_loss
+.. |downloads| image:: https://pepy.tech/badge/autoencoders-correlation-loss
+    :target: https://pepy.tech/badge/autoencoders-correlation-loss
     :alt: Pypi total project downloads
 
 .. |codacy| image:: https://api.codacy.com/project/badge/Grade/5456d52a469d4c01b1c62f63bd72021c
